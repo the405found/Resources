@@ -5,6 +5,7 @@ Hi! I'm a markdown file with helpful resources for your career in tech. Please f
 
 ## Learning and Skill Building
 
+
 ### A Mix of Everything
 
 [SkillTube](https://skilltube.netlify.app/index.html) - A curated list of best courses from YouTube and other platforms (Last checked: 10/2020) 
@@ -15,19 +16,22 @@ Hi! I'm a markdown file with helpful resources for your career in tech. Please f
 
 [https://projects.raspberrypi.org/en](https://projects.raspberrypi.org/en) - offers projects to program games, websites, robots and more that will help you start writing code and get going with digital making (Last checked: 10/2020)
 
+
 ### Training Providers
 
 [Hack.Diversity](https://hackdiversity.com/) - recruits Black and Latinx students pursuing careers in software engineering, data analytics, information technology, and UX/UI design into the Boston’s fastest-growing companies (Last checked: 10/2020)
 
-[Per Scholas](https://perscholas.org/locations/greater-boston/) - offers free hands-on technology training in cloud, cybersecurity, IT, and software engineering to students in Greater Boston area
+[Per Scholas](https://perscholas.org/locations/greater-boston/) - offers free hands-on technology training in cloud, cybersecurity, IT, and software engineering to students in Greater Boston area (Last checked: 10/2020) 
 
-[CodeSquad](http://codesquad.org/) - a training program for talented, low-income adults, particularly people of color, to become full-stack web developers
+[CodeSquad](http://codesquad.org/) - a training program for talented, low-income adults, particularly people of color, to become full-stack web developers (Last checked: 10/2020) 
+
 
 ### Courses
 
 [edX](https://www.edx.org/) - courses for curious minds on topics ranging from data and computer science to leadership and communications (Last checked: 10/2020)
 
 [Khan Academy](https://www.khanacademy.org/) - offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom (Last checked: 10/2020)
+
 
 ## Communities
 
@@ -42,6 +46,7 @@ Hi! I'm a markdown file with helpful resources for your career in tech. Please f
 
 [Weekly Rendezvous](https://cassidoo.co/newsletter/) - what’s new in web development, an interview question of the week, and jokes (Last checked: 10/2020)
 
+
 ## Podcasts
 
 [Ladybug.dev](https://www.ladybug.dev/) - Tech podcast with episodes on web development, tech sphere, interview tips, book club, and more (Last checked: 10/2020)
@@ -55,7 +60,9 @@ Hi! I'm a markdown file with helpful resources for your career in tech. Please f
 
 [Almeezyuh](https://www.youtube.com/c/almeezyuh) -  Almeezyuh makes videos about the latest tech, coding tutorials, and life as a software developer (Last checked: 10/2020)
 
+
 ## Job Search Support
+
 
 ### Interview Prep
 
@@ -65,9 +72,11 @@ Hi! I'm a markdown file with helpful resources for your career in tech. Please f
 
 [Technical Interviewing 101](https://learntocodewith.me/posts/technical-interview/) - blog post on Learn To Code With Me
 
+
 ### Negotiation
 
 [AAUW Worksmart in Boston](https://www.boston.gov/departments/womens-advancement/aauw-work-smart-boston) - free salary negotiation workshops for women
+
 
 #### Company and Salary Research
 * [Glassdoor](https://www.glassdoor.com/)
